@@ -1,0 +1,7 @@
+site_name: MKDOCS_PROJECT
+site_url: https://sitename.example
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name:  readthedocs
